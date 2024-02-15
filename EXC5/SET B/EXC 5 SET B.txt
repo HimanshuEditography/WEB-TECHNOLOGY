@@ -1,0 +1,25 @@
+<html>
+<head><title>Option</title></head>
+
+<SELECT NAME="DEPARTMENT STORE">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</HTML>

@@ -1,0 +1,39 @@
+<html>
+
+<head>
+
+<title> CLIENT FORM </title>
+
+</head>
+
+
+<body bg color="red">
+
+<lable> first name : 		
+</lable>
+<input type = text id=frame><br><br>
+
+<lable> Middle Name : 		
+</lable>
+<input type = text id=frame><br><br>
+
+<lable> Last Name : 		
+</lable>
+<input type = text id=frame><br><br>
+
+
+<lable> Gender :
+<input type="radio"> Male 
+<input type="radio"> Female
+<br></br>
+
+<lable> Select pur favourite color
+<input type="color"><br></br>
+
+<input type = submit>
+
+</body>
+
+
+</html>
+

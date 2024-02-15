@@ -1,0 +1,63 @@
+<html>
+
+<head>
+<title>EXC-3 SET-B Q2</title>
+</head>
+
+<body bgcolor=#FFE5C1>
+<table border=1>
+<tr bgcolor=#916B2D>
+<th>Country</th>
+<th>Population (in Crores)</th>
+</tr>
+
+<tr>
+<td rowspan=3>INDIA</td>
+<td>1998</td>
+<td>1985</td>
+</tr>
+
+<tr>
+<td>1999</td>
+<td>90</td>
+</tr>
+
+<tr>
+<td>2000</td>
+<td>100</td>
+</tr>
+
+<tr>
+<td rowspan=3>USA</td>
+<td>1999</td>
+<td>90</td>
+</tr>
+
+<tr>
+<td>2000</td>
+<td>100</td>
+</tr>
+
+<tr>
+<td>1998</td>
+<td>1985</td>
+</tr>
+
+<tr>
+<td rowspan=3>uk</td>
+<td>1999</td>
+<td>90</td>
+</tr>
+
+<tr>
+<td>2000</td>
+<td>100</td>
+</tr>
+
+<tr>
+<td>1998</td>
+<td>1985</td>
+</tr>
+
+</body>
+</html>

@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>EXC-2-SET A Q-1</title>
+</head>
+
+<body>
+<ol type=a>
+<li> Undergraduate Courses</li>
+<ol type=i>
+<li>BBA (CA)</li>
+<li>BCA (Science)</li>
+<li>B.Sc(Computer Science)</li>
+</ol>
+
+<li>Post Graduate Courses</li>
+<ol type=i>
+<li>M.Sc.(Comp. Sci)</li>
+<li>M.Sc(CA)</li>
+<li>MCA</li>
+</ol>
+</body>
+
+
+
+
+
+</html
